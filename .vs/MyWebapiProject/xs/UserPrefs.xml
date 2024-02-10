@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{43113200-CF7A-47BA-B9DF-D2B1772752A8}|https">
+  <MonoDevelop.Ide.ItemProperties.MyWebapiProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyWebapiProject/Program.cs">
+    <Files>
+      <File FileName="MyWebapiProject/Program.cs" Line="17" Column="27" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.TargetFrameworkInference.targets" Line="151" Column="5" />
+      <File FileName="MyWebapiProject/appsettings.json" Line="1" Column="1" />
+      <File FileName="MyWebapiProject/MyWebapiProject.http" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyWebapiProject">
+            <Node name="MyWebapiProject" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
